@@ -1,0 +1,14 @@
+C:\Users\Cagri\source\repos\ToDoList_App\bin\Debug\net8.0\ToDoList_App.exe
+C:\Users\Cagri\source\repos\ToDoList_App\bin\Debug\net8.0\ToDoList_App.deps.json
+C:\Users\Cagri\source\repos\ToDoList_App\bin\Debug\net8.0\ToDoList_App.runtimeconfig.json
+C:\Users\Cagri\source\repos\ToDoList_App\bin\Debug\net8.0\ToDoList_App.dll
+C:\Users\Cagri\source\repos\ToDoList_App\bin\Debug\net8.0\ToDoList_App.pdb
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\ToDoList_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\ToDoList_App.AssemblyInfoInputs.cache
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\ToDoList_App.AssemblyInfo.cs
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\ToDoList_App.csproj.CoreCompileInputs.cache
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\ToDoList_App.dll
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\refint\ToDoList_App.dll
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\ToDoList_App.pdb
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\ToDoList_App.genruntimeconfig.cache
+C:\Users\Cagri\source\repos\ToDoList_App\obj\Debug\net8.0\ref\ToDoList_App.dll
